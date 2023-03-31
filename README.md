@@ -1,4 +1,4 @@
-# Yotube Video Downloader Guide
+# Youtube Video Downloader Guide
 
 >**Step 1:** To setup the code into you system enter: **git clone https://github.com/UTSAV18/Python-Video-Donwloader.git** <br>
 >**Step 2:** Open the file in any code editor and make sure to install the libraries using 
